@@ -1,2 +1,3 @@
-# Data_Science_Project
-This project performs ETL operations on football player data, including duplicate removal and attribute analysis. It features visual insights into global player demographics using bar charts and pie charts.
+The Goal: Analysis of football player data.
+The Tools: Python, Pandas, Seaborn.
+The Findings: (e.g., "England has the most players in this dataset").
